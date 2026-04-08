@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "All N 1 Plumbing Services",
+    "phone": "+12149003355",
+    "category": "plumbing company",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Plumbing Problems Solved, Guaranteed.",
+      "heroSubline": "Reliable plumbing services in Arlington and the surrounding Dallas-Fort Worth area. Call All N 1 Plumbing Services for fast, professional help.",
+      "aboutTitle": "Your Trusted Arlington Plumbers",
+      "aboutText": [
+        "All N 1 Plumbing Services was founded over a decade ago right here in Arlington, TX. We saw a need for dependable, honest plumbing work, and we built our business on those principles. We're not just plumbers; we're your neighbors.",
+        "Our approach is simple: diagnose the problem accurately, explain the solution clearly, and execute the work flawlessly. We use the best materials and the latest techniques to ensure lasting results and your complete satisfaction. We treat every home as if it were our own.",
+        "We're proud to be part of the Arlington community. We support local schools and charities, and we're committed to providing top-quality service to our friends and neighbors throughout the Dallas-Fort Worth metroplex."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait, and neither do we. Call us anytime, day or night, for immediate assistance."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. We provide clear, detailed estimates before we start any work, so you know exactly what to expect."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Rest easy knowing that our team is fully licensed and insured, protecting you and your property."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Got a Plumbing Problem?",
+      "ctaSubline": "Call All N 1 Plumbing Services for fast, reliable solutions."
+    },
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Fast and effective drain cleaning services to keep your pipes flowing freely.",
+        "description": "Clogged drains are a common nuisance, but they can quickly escalate into bigger problems. Whether it's a slow-draining sink, a blocked toilet, or a backed-up shower, All N 1 Plumbing Services has the expertise and equipment to clear your drains quickly and efficiently.\n\nWe use a variety of techniques, including snaking, hydro-jetting, and camera inspections, to diagnose and resolve drain blockages. Our experienced plumbers will identify the cause of the clog, remove the obstruction, and ensure that your drains are flowing smoothly again. We handle everything from simple hair clogs to more complex issues like tree root intrusion.\n\nRegular drain cleaning is essential for maintaining a healthy plumbing system and preventing costly repairs down the road. Don't wait until you have a major blockage; call All N 1 Plumbing Services to schedule a preventative drain cleaning service today. We'll keep your pipes clear and your water flowing.",
+        "process": [
+          "Step 1: Diagnose the clog using camera inspection if needed.",
+          "Step 2: Choose the best method: snaking or hydro-jetting.",
+          "Step 3: Clear the drain and remove the obstruction.",
+          "Step 4: Test the drain to ensure proper flow."
+        ],
+        "benefits": [
+          "Prevents costly repairs",
+          "Eliminates foul odors",
+          "Improves drainage speed",
+          "Extends the life of your pipes"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend having your drains cleaned at least once a year, or more frequently if you experience recurring clogs."
+          },
+          {
+            "question": "What causes clogged drains?",
+            "answer": "Common causes include hair, grease, food scraps, soap scum, and mineral buildup."
+          },
+          {
+            "question": "Is hydro-jetting safe for my pipes?",
+            "answer": "Yes, when performed by a trained professional like All N 1 Plumbing Services, hydro-jetting is a safe and effective way to clean your drains."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair & Installation",
+        "shortDescription": "Expert water heater services to keep your hot water flowing reliably.",
+        "description": "A malfunctioning water heater can disrupt your entire household. From cold showers to inefficient energy usage, a faulty water heater is a major inconvenience. All N 1 Plumbing Services specializes in water heater repair and installation, ensuring that you have a reliable source of hot water when you need it.\n\nWhether you have a traditional tank water heater or a modern tankless system, our skilled technicians can diagnose and repair any issue. We handle everything from minor repairs like replacing a faulty heating element to complete water heater replacements. We work with all major brands and models.\n\nIf your water heater is old or inefficient, we can help you choose a new, energy-efficient model that meets your needs and budget. We offer professional installation services to ensure that your new water heater is installed correctly and safely. Don't suffer through cold showers; call All N 1 Plumbing Services for fast, reliable water heater service.",
+        "process": [
+          "Step 1: Diagnose the problem and determine the best course of action.",
+          "Step 2: Provide a detailed estimate for repair or replacement.",
+          "Step 3: Perform the repair or install the new water heater.",
+          "Step 4: Test the system to ensure proper operation."
+        ],
+        "benefits": [
+          "Reliable hot water",
+          "Energy efficiency",
+          "Extended water heater lifespan",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "Most traditional tank water heaters last 8-12 years. Tankless water heaters can last 20 years or more."
+          },
+          {
+            "question": "What are the signs that my water heater needs to be replaced?",
+            "answer": "Signs include rusty water, leaks, strange noises, and inconsistent water temperature."
+          },
+          {
+            "question": "Should I repair or replace my water heater?",
+            "answer": "If your water heater is old or the repairs are extensive, replacement is often the more cost-effective option."
+          }
+        ]
+      },
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection & Repair",
+        "shortDescription": "Accurate leak detection and expert repairs to protect your home from water damage.",
+        "description": "Hidden leaks can cause significant damage to your home, leading to mold growth, structural problems, and high water bills. All N 1 Plumbing Services uses advanced leak detection technology to pinpoint the source of leaks quickly and accurately, minimizing damage and saving you money.\n\nOur experienced plumbers use specialized equipment, such as acoustic listening devices and thermal imaging cameras, to locate leaks behind walls, under floors, and in underground pipes. Once we've identified the leak, we'll provide you with a detailed explanation of the problem and a plan for repair.\n\nWe handle all types of leak repairs, from minor pipe leaks to major slab leaks. We use the highest quality materials and proven techniques to ensure lasting results. Don't let a hidden leak damage your home; call All N 1 Plumbing Services for expert leak detection and repair.",
+        "process": [
+          "Step 1: Use advanced technology to locate the leak.",
+          "Step 2: Assess the extent of the damage.",
+          "Step 3: Provide a detailed repair plan and estimate.",
+          "Step 4: Perform the repair using quality materials."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Reduces water bills",
+          "Eliminates mold growth",
+          "Protects your home's structure"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I have a hidden leak?",
+            "answer": "Signs include unexplained increases in your water bill, damp spots on walls or ceilings, and the sound of running water when no fixtures are in use."
+          },
+          {
+            "question": "What is a slab leak?",
+            "answer": "A slab leak is a leak in a water pipe located under the concrete slab foundation of your home."
+          },
+          {
+            "question": "How much does leak detection cost?",
+            "answer": "The cost of leak detection varies depending on the complexity of the job. Call us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "pipe-repair",
+        "name": "Pipe Repair & Replacement",
+        "shortDescription": "Reliable pipe repair and replacement services for all types of plumbing systems.",
+        "description": "Damaged or corroded pipes can lead to leaks, low water pressure, and even water contamination. All N 1 Plumbing Services offers comprehensive pipe repair and replacement services to ensure that your plumbing system is functioning properly and safely.\n\nWe handle all types of pipe repairs, from patching small leaks to replacing entire sections of pipe. We work with a variety of materials, including copper, PVC, and PEX, and we use the latest techniques to ensure lasting results. Our experienced plumbers will assess the condition of your pipes and recommend the best solution for your needs.\n\nIf your pipes are old or severely damaged, we may recommend a complete pipe replacement. This can improve water pressure, eliminate leaks, and prevent future problems. We offer professional pipe replacement services to ensure that your new plumbing system is installed correctly and meets all local codes. Don't let damaged pipes compromise your home's plumbing system; call All N 1 Plumbing Services for expert pipe repair and replacement.",
+        "process": [
+          "Step 1: Inspect the pipes and assess the damage.",
+          "Step 2: Determine the best repair or replacement option.",
+          "Step 3: Perform the repair or replacement using quality materials.",
+          "Step 4: Test the system to ensure proper operation and no leaks."
+        ],
+        "benefits": [
+          "Improved water pressure",
+          "Elimination of leaks",
+          "Prevention of water contamination",
+          "Extended lifespan of your plumbing system"
+        ],
+        "faq": [
+          {
+            "question": "How long do pipes typically last?",
+            "answer": "The lifespan of pipes varies depending on the material and water quality. Copper pipes can last 50-70 years, while PVC pipes can last 50-100 years."
+          },
+          {
+            "question": "What are the signs that my pipes need to be replaced?",
+            "answer": "Signs include low water pressure, rusty water, frequent leaks, and visible corrosion."
+          },
+          {
+            "question": "What is PEX piping?",
+            "answer": "PEX is a flexible plastic piping material that is becoming increasingly popular for its durability, affordability, and ease of installation."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional fixture installation services for all your plumbing needs.",
+        "description": "Upgrading your plumbing fixtures can enhance the look and functionality of your home. Whether you're remodeling your bathroom, updating your kitchen, or simply replacing a worn-out fixture, All N 1 Plumbing Services offers professional fixture installation services to ensure that your new fixtures are installed correctly and safely.\n\nWe handle all types of fixture installations, including faucets, sinks, toilets, showers, and bathtubs. We work with all major brands and models, and we can help you choose the right fixtures to meet your needs and budget. Our experienced plumbers will ensure that your new fixtures are properly connected to your plumbing system and that all connections are leak-free.\n\nWe also offer fixture repair services. If you have a leaky faucet, a running toilet, or a broken showerhead, we can diagnose the problem and provide a cost-effective repair solution. Don't struggle with DIY fixture installations; call All N 1 Plumbing Services for professional results.",
+        "process": [
+          "Step 1: Remove the old fixture and prepare the area for installation.",
+          "Step 2: Install the new fixture according to manufacturer's instructions.",
+          "Step 3: Connect the fixture to the plumbing system.",
+          "Step 4: Test the fixture to ensure proper operation and no leaks."
+        ],
+        "benefits": [
+          "Enhanced home aesthetics",
+          "Improved functionality",
+          "Increased property value",
+          "Leak-free connections"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a new toilet?",
+            "answer": "A typical toilet installation takes 1-2 hours."
+          },
+          {
+            "question": "Do I need to shut off the water before replacing a faucet?",
+            "answer": "Yes, you should always shut off the water supply before replacing a faucet."
+          },
+          {
+            "question": "Can you install a fixture that I purchased myself?",
+            "answer": "Yes, we can install fixtures that you purchased yourself, or we can help you choose new fixtures from our selection."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-plumbing",
+        "name": "24/7 Emergency Plumbing",
+        "shortDescription": "Fast, reliable emergency plumbing services available 24/7 in the Arlington area.",
+        "description": "Plumbing emergencies can happen at any time, day or night. A burst pipe, a flooded basement, or a sewer backup can cause significant damage to your home and require immediate attention. All N 1 Plumbing Services offers 24/7 emergency plumbing services to provide you with fast, reliable assistance when you need it most.\n\nOur experienced plumbers are available around the clock to respond to your plumbing emergencies. We'll arrive quickly, assess the situation, and take immediate action to minimize damage and restore your plumbing system. We handle all types of plumbing emergencies, from minor leaks to major floods.\n\nDon't wait until morning to address a plumbing emergency; call All N 1 Plumbing Services for immediate assistance. We're here to help you protect your home and your family.",
+        "process": [
+          "Step 1: Call our 24/7 emergency hotline.",
+          "Step 2: We'll dispatch a plumber to your location immediately.",
+          "Step 3: The plumber will assess the situation and take immediate action.",
+          "Step 4: We'll provide a detailed explanation of the problem and a plan for repair."
+        ],
+        "benefits": [
+          "Fast response time",
+          "Minimization of damage",
+          "Restoration of plumbing system",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a plumbing emergency?",
+            "answer": "A plumbing emergency is any situation that poses an immediate threat to your home or health, such as a burst pipe, a flooded basement, or a sewer backup."
+          },
+          {
+            "question": "How quickly can you respond to a plumbing emergency?",
+            "answer": "We strive to respond to plumbing emergencies within 30-60 minutes, depending on your location and the time of day."
+          },
+          {
+            "question": "What should I do while waiting for the plumber to arrive?",
+            "answer": "If possible, shut off the water supply to the affected area. Also, try to contain the water to prevent further damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is proud to offer comprehensive plumbing solutions to the residents of Dallas, Texas. From the vibrant neighborhoods near downtown to the sprawling suburbs, we understand the unique plumbing needs of this diverse city. We're equipped to handle everything from routine maintenance to complex repairs, ensuring your home's plumbing system functions flawlessly.\n\nDallas homes, particularly those in established areas, often feature plumbing systems dating back to the mid-20th century. These older systems can be prone to issues like pipe corrosion and leaks. Our experienced technicians are adept at diagnosing and resolving these problems, offering efficient and reliable service to keep your home comfortable and safe. We also understand the impact of the hot, humid Dallas summers on your plumbing, so we can help you prepare your system for those harsh conditions.",
+        "localContext": "Dallas is known for its mix of historic homes and modern developments, with many properties in older neighborhoods featuring 1950s ranch-style architecture and experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is dedicated to providing top-notch plumbing services to the residents and businesses of Fort Worth, Texas. We understand the unique character of Fort Worth, from the historic Stockyards to the growing downtown area, and we're committed to delivering reliable and efficient plumbing solutions tailored to your specific needs.\n\nMany Fort Worth homes, especially those near the city center, boast charming Craftsman bungalow architecture. These homes often require specialized plumbing services to maintain their integrity and functionality. Our skilled technicians are experienced in working with older plumbing systems and can provide expert repairs, upgrades, and installations to ensure your home's plumbing is in top condition. Preparing for the hot and humid summers is crucial, and we can help with that too.",
+        "localContext": "Fort Worth features a blend of historic charm and modern development, with a significant number of Craftsman bungalows located near the downtown area, and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Arlington",
+          "Benbrook",
+          "White Settlement"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services offers a full range of plumbing services to the residents of Plano, Texas. As a growing city with a mix of established neighborhoods and new developments, Plano presents unique plumbing challenges. We're here to provide expert solutions for everything from routine maintenance to complex repairs, ensuring your home's plumbing system is functioning at its best.\n\nPlano's established subdivisions, built in the 1980s and 90s, often require plumbing upgrades and repairs as systems age. Our experienced technicians can assess your plumbing needs and provide efficient, cost-effective solutions. We understand the specific plumbing requirements of Plano homes and are committed to delivering exceptional service. We can also help you prepare your plumbing for the hot summer months.",
+        "localContext": "Plano is characterized by its established subdivisions, many of which were built in the 1980s and 1990s, and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is proud to serve the rapidly growing community of Frisco, Texas. With its focus on new construction and modern amenities, Frisco homes often feature advanced plumbing systems. We're equipped to handle the unique plumbing needs of these homes, providing expert installation, maintenance, and repair services.\n\nFrisco's newer construction, dating from the 2000s to the present, often incorporates the latest plumbing technologies. Our technicians are trained in these advanced systems and can provide efficient and reliable service. Whether you need a new water heater installed or a leak repaired, we're here to help. We also know how the hot Texas summers can affect plumbing, and we're here to help you prevent problems.",
+        "localContext": "Frisco is known for its newer construction, with many homes built in the 2000s and 2020s, and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "The Colony",
+          "Little Elm",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is committed to providing exceptional plumbing services to the residents of McKinney, Texas. From the historic downtown area to the growing residential neighborhoods, we understand the diverse plumbing needs of this community. We offer a full range of services, from routine maintenance to emergency repairs, ensuring your home's plumbing system is functioning flawlessly.\n\nMcKinney's historic downtown features homes with older plumbing systems that require specialized care. Our experienced technicians are skilled in working with these systems and can provide expert repairs and upgrades. We also serve the newer residential areas of McKinney, providing the latest plumbing solutions to meet your needs. We'll also help you prepare your plumbing for the hot and humid summers.",
+        "localContext": "McKinney features a charming historic downtown area with older homes, as well as newer residential developments, and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Allen",
+          "Prosper",
+          "Melissa"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is your local plumbing expert in Arlington, Texas. We're proud to serve the diverse neighborhoods of this vibrant city, from the entertainment district to the established residential areas. We offer a full range of plumbing services, including repairs, installations, and maintenance, to keep your home's plumbing system running smoothly.\n\nArlington homes vary in age and style, requiring a wide range of plumbing expertise. Our experienced technicians are equipped to handle any plumbing issue, from leaky faucets to burst pipes. We're committed to providing prompt, reliable, and affordable service to the residents of Arlington. Plus, we understand how the hot, humid summers can affect your plumbing, so we offer preventative services.",
+        "localContext": "Arlington is a diverse city with a mix of older and newer homes, located in a climate with hot, humid summers.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is dedicated to providing top-quality plumbing services to the residents of Garland, Texas. We understand the unique needs of this community, from the older homes in the central areas to the newer developments on the outskirts of the city. Our experienced technicians are equipped to handle any plumbing issue, big or small.\n\nMany homes in Garland feature plumbing systems that have been in place for several decades. These older systems can be prone to problems like pipe corrosion and leaks. We specialize in diagnosing and repairing these issues, providing efficient and reliable service to keep your home comfortable and safe. Preparing for the hot, humid Garland summers is essential, and we can help with that too.",
+        "localContext": "Garland features a mix of older and newer homes, with a humid subtropical climate.",
+        "nearbyAreas": [
+          "Mesquite",
+          "Richardson",
+          "Rowlett"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is proud to serve the residents of Richardson, Texas, providing reliable and efficient plumbing solutions for homes and businesses. We understand the unique characteristics of Richardson properties, from the established neighborhoods to the newer developments, and we're committed to delivering exceptional service.\n\nRichardson's homes often feature a mix of older and newer plumbing systems. Our experienced technicians are skilled in working with both types of systems, providing expert repairs, upgrades, and installations. We're dedicated to ensuring your plumbing system is functioning at its best, keeping your home comfortable and safe. We also offer services to help you prepare your plumbing for the hot Texas summers.",
+        "localContext": "Richardson features a mix of established neighborhoods and newer developments, with a climate characterized by hot, humid summers.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Addison"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services is your trusted plumbing partner in Grand Prairie, Texas. We're dedicated to providing top-quality plumbing services to the residents and businesses of this growing city. Whether you're dealing with a leaky faucet or a major plumbing emergency, we're here to help.\n\nGrand Prairie encompasses a variety of home styles and ages, each with its own unique plumbing needs. Our experienced technicians are equipped to handle any plumbing issue, from older homes needing pipe repairs to newer homes requiring installation of modern fixtures. We're committed to providing prompt, reliable, and affordable service to the Grand Prairie community. We also understand the challenges of the hot, humid summers and can help you protect your plumbing.",
+        "localContext": "Grand Prairie features a diverse range of home styles and ages in a hot, humid climate.",
+        "nearbyAreas": [
+          "Arlington",
+          "Irving",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Mesquite",
+        "slug": "mesquite-tx",
+        "state": "TX",
+        "content": "All N 1 Plumbing Services proudly serves the residents of Mesquite, Texas. We offer a full spectrum of plumbing services tailored to meet the diverse needs of this community. From routine maintenance to emergency repairs, our experienced technicians are dedicated to providing reliable and efficient solutions for your home or business.\n\nMesquite's housing landscape includes a mix of established neighborhoods and newer constructions. Our team is well-versed in handling plumbing systems of all ages and complexities. We understand the common plumbing issues that arise in Mesquite homes and are equipped to provide effective and lasting repairs. We also assist with preparing your plumbing for the demanding heat and humidity of Texas summers.",
+        "localContext": "Mesquite is a vibrant city with a mix of established and newer residential areas, experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Dallas",
+          "Garland",
+          "Balch Springs"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Our old water heater finally gave out. All N 1 Plumbing was out the same day and had a new one installed quickly. The technician, David, was very professional and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "We had a slow-draining kitchen sink that was driving us crazy. All N 1 Plumbing came out and cleared the drain in no time. The plumber was friendly and efficient. Would use them again.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 5,
+        "service": "Leak Detection",
+        "text": "I suspected a leak in my slab. All N 1 Plumbing used some fancy equipment to find it quickly, saving me a ton on potential water damage. They fixed the leak with minimal disruption. Great service!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Toilet Repair",
+        "text": "Our toilet was constantly running, wasting water. All N 1 Plumbing repaired it quickly and efficiently. The plumber was knowledgeable and explained the problem clearly. Very satisfied.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Jennifer A.",
+        "rating": 5,
+        "service": "Emergency Plumbing",
+        "text": "We had a burst pipe in the middle of the night. All N 1 Plumbing responded immediately and stopped the flooding. Their quick response saved us from major damage. Thank you!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Kevin P.",
+        "rating": 4,
+        "service": "Pipe Replacement",
+        "text": "Had some old galvanized pipes replaced with PEX. The job was done professionally and efficiently. They cleaned up after themselves and were very courteous.",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arlington Plumbing Services | All N 1 Plumbing",
+        "description": "Reliable plumbing in Arlington, TX. 24/7 Emergency service. Water heaters, drain cleaning, leak detection, and more. Call now!"
+      },
+      "about": {
+        "title": "About All N 1 Plumbing | Arlington, TX",
+        "description": "Learn about All N 1 Plumbing Services in Arlington, TX. Licensed & insured plumbers providing quality service and customer satisfaction."
+      },
+      "services": {
+        "title": "Plumbing Services | Arlington, TX | All N 1",
+        "description": "Comprehensive plumbing services in Arlington, TX. Drain cleaning, water heater repair, leak detection, and more. Call for a free estimate!"
+      },
+      "contact": {
+        "title": "Contact All N 1 Plumbing | Arlington, TX",
+        "description": "Contact All N 1 Plumbing Services for fast, reliable plumbing service in Arlington, TX. 24/7 emergency service available."
+      },
+      "reviews": {
+        "title": "All N 1 Plumbing Reviews | Arlington, TX",
+        "description": "Read reviews for All N 1 Plumbing Services in Arlington, TX. See what our satisfied customers are saying about our plumbing services."
+      },
+      "service-areas": {
+        "title": "All N 1 Plumbing Service Areas | TX",
+        "description": "See the areas All N 1 Plumbing services in Texas. Quality plumbing in Dallas, Fort Worth, Plano, Frisco, McKinney and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair": "/images/service-water-heater-repair.webp",
+      "leak-detection": "/images/service-leak-detection.webp",
+      "pipe-repair": "/images/service-pipe-repair.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "emergency-plumbing": "/images/service-emergency-plumbing.webp"
+    },
+    "servicesResponsive": {
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair": {
+        "src": "/images/service-water-heater-repair.webp",
+        "srcset": "/images/service-water-heater-repair-400w.webp 400w, /images/service-water-heater-repair-800w.webp 800w, /images/service-water-heater-repair-1200w.webp 1200w, /images/service-water-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pipe-repair": {
+        "src": "/images/service-pipe-repair.webp",
+        "srcset": "/images/service-pipe-repair-400w.webp 400w, /images/service-pipe-repair-800w.webp 800w, /images/service-pipe-repair-1200w.webp 1200w, /images/service-pipe-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-plumbing": {
+        "src": "/images/service-emergency-plumbing.webp",
+        "srcset": "/images/service-emergency-plumbing-400w.webp 400w, /images/service-emergency-plumbing-800w.webp 800w, /images/service-emergency-plumbing-1200w.webp 1200w, /images/service-emergency-plumbing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
